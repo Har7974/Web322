@@ -6,9 +6,9 @@
 * 
 *  Name: Harmish Patel Student ID:15456212 Date: 27-01-2023
 *
-*  Cyclic Web App URL: 
+*  Cyclic Web App URL: https://expensive-pear-sweatshirt.cyclic.app/
 *
-*  GitHub Repository URL: 
+*  GitHub Repository URL: https://github.com/Har7974/Web322
 *
 ********************************************************************************/ 
 
